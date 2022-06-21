@@ -4,7 +4,7 @@ Welcome to my github, feel free to consult anything you want.
 - 👋 Hi, I’m @fepirata, I'm currently living in São Paulo, Brazil. 
 - 🖥️ Working as BackOffice Analist, looking for change to Tech.
 - 👀 I’m interested in back-end stacks
-- 🌱 I’m currently focusing in learn Javascript, Java, ReactJs, Node.Js and Git.
+- 🌱 I’m currently focusing in learn Javascript, Java, ReactJs, Angular and Git.
 - ⚡ Fun fact: I'm called Pirata because im blind of my left eye.
 
 ### Stacks and tools:
@@ -12,14 +12,8 @@ Welcome to my github, feel free to consult anything you want.
 ![CSS](https://img.shields.io/badge/-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/-02569B?style=flat&logo=react)
-![NODEJS](https://img.shields.io/badge/-43853D?style=flat&logo=node.js&logoColor=white)
 ![GIT](https://img.shields.io/badge/-000?style=flat&logo=git)
 ![GITHUB](https://img.shields.io/badge/-000?style=flat&logo=github)
-![PYTHON](https://img.shields.io/badge/-000?style=flat&logo=python)
-![GRAPHQL](https://img.shields.io/badge/-E10098?style=flat&logo=graphql)
-![BOOTSTRAP](https://img.shields.io/badge/-white?style=flat&logo=bootstrap)
-![FIREBASE](https://img.shields.io/badge/-blue?style=flat&logo=firebase)
-![ELECTRON](https://img.shields.io/badge/-414557?style=flat&logo=electron)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Pirata&layout=compact)](https://github.com/Filipe-Pirata/github-readme-stats)
