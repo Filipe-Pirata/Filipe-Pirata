@@ -4,17 +4,16 @@ Welcome to my github, feel free to consult anything you want.
 - 👋 Hi, I’m @fepirata, I'm currently living in São Paulo, Brazil. 
 - 🖥️ Working as BackOffice Analist, looking for change to Tech.
 - 👀 I’m interested in fullstack stacks
-- 🌱 I’m currently focusing in learn Javascript, Java, ReactJs, Angular and Git.
+- 🌱 I’m currently focusing in learn Javascript, Java, Angular and Git.
 - ⚡ Fun fact: I'm called Pirata because im blind of my left eye.
 
 ### Stacks and tools:
 ![HTML](https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-000?style=flat&logo=javascript&logoColor=F7DF1E)
-![REACT](https://img.shields.io/badge/-02569B?style=flat&logo=react)
 ![GIT](https://img.shields.io/badge/-000?style=flat&logo=git)
 ![GITHUB](https://img.shields.io/badge/-000?style=flat&logo=github)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![ANGULAR](https://img.shields.io/badge/angular-%20-yellow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Pirata&layout=compact)](https://github.com/Filipe-Pirata/github-readme-stats)
 
