@@ -17,5 +17,5 @@ Welcome to my github, feel free to consult anything you want.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Pirata&layout=compact)](https://github.com/Filipe-Pirata/github-readme-stats)
 
-[![Meu perfil rocketseat](https://img.shields.io/badge/-Rocketseat-8957E6?style=flat)](https://app.rocketseat.com.br/me/filipe-vitor-de-castro-azevedo-03619)
+
 [![Perfil do LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/filipe-azevedo-262126189/)
