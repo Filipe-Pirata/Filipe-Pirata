@@ -2,9 +2,8 @@
 Welcome to my github, feel free to consult anything you want.
 
 - 👋 Hi, I’m @fepirata, I'm currently living in São Paulo, Brazil. 
-- 🖥️ Working as BackOffice Analist, looking for change to Tech.
-- 👀 I’m interested in fullstack technologies.
-- 🌱 I’m currently focusing in learn Javascript, Java, Angular and Git.
+- 🖥️ Working as Credit Analyst.
+- 👀 I’m interested in data technologies.
 - ⚡ Fun fact: I'm called Pirata because im blind of my left eye.
 
 ### Stacks and tools:
